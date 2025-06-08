@@ -1,0 +1,3 @@
+[submodule "test-children"]
+	path = test-children
+	url = https://github.com/vedasishere/test-children.git
